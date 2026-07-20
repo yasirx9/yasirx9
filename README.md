@@ -34,7 +34,7 @@ I'm currently leveling up my ML fundamentals while picking up more software engi
 
 | ![](https://skillicons.dev/icons?i=python) Python | ![](https://skillicons.dev/icons?i=java) Java | ![](https://skillicons.dev/icons?i=javascript) JavaScript | ![](https://skillicons.dev/icons?i=html) HTML | ![](https://skillicons.dev/icons?i=css) CSS | ![](https://skillicons.dev/icons?i=git) Git | ![](https://skillicons.dev/icons?i=github) GitHub |
 |---|---|---|---|---|---|---|
-| ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg) NumPy | ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg) Pandas | ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg) Matplotlib | Scikit-Learn | ![](https://skillicons.dev/icons?i=jupyter) Jupyter | ![](https://skillicons.dev/icons?i=vscode) VS Code | |
+| ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg) NumPy | ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg) Pandas | ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg) Matplotlib | ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg) Scikit-Learn | ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg) Jupyter | ![](https://skillicons.dev/icons?i=vscode) VS Code | |
 
 ---
 
