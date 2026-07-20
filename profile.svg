@@ -40,22 +40,22 @@
     <circle cx="258" cy="216" r="138"/>
   </clipPath>
 
-  <clipPath id="lc0"><rect x="500" y="26.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.75s" fill="freeze"/></rect></clipPath>
-<clipPath id="lc1"><rect x="500" y="54.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.86s" fill="freeze"/></rect></clipPath>
-<clipPath id="lc2"><rect x="500" y="82.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.97s" fill="freeze"/></rect></clipPath>
-<clipPath id="lc3"><rect x="500" y="110.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.08s" fill="freeze"/></rect></clipPath>
-<clipPath id="lc4"><rect x="500" y="138.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.19s" fill="freeze"/></rect></clipPath>
-<clipPath id="lc5"><rect x="500" y="166.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.30s" fill="freeze"/></rect></clipPath>
-<clipPath id="lc6"><rect x="500" y="194.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.41s" fill="freeze"/></rect></clipPath>
-<clipPath id="lc7"><rect x="500" y="222.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.52s" fill="freeze"/></rect></clipPath>
-<clipPath id="lc8"><rect x="500" y="250.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.63s" fill="freeze"/></rect></clipPath>
-<clipPath id="lc9"><rect x="500" y="278.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.74s" fill="freeze"/></rect></clipPath>
-<clipPath id="lc10"><rect x="500" y="306.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.85s" fill="freeze"/></rect></clipPath>
-<clipPath id="lc11"><rect x="500" y="334.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.96s" fill="freeze"/></rect></clipPath>
-<clipPath id="lc12"><rect x="500" y="362.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.07s" fill="freeze"/></rect></clipPath>
-<clipPath id="lc13"><rect x="500" y="390.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.18s" fill="freeze"/></rect></clipPath>
-<clipPath id="lc14"><rect x="500" y="418.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.29s" fill="freeze"/></rect></clipPath>
-<clipPath id="lc15"><rect x="500" y="446.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.40s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc0"><rect x="500" y="34.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.75s" fill="freeze"/></rect></clipPath>
+<clipPath id="lc1"><rect x="500" y="62.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.86s" fill="freeze"/></rect></clipPath>
+<clipPath id="lc2"><rect x="500" y="90.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.97s" fill="freeze"/></rect></clipPath>
+<clipPath id="lc3"><rect x="500" y="118.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.08s" fill="freeze"/></rect></clipPath>
+<clipPath id="lc4"><rect x="500" y="146.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.19s" fill="freeze"/></rect></clipPath>
+<clipPath id="lc5"><rect x="500" y="174.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.30s" fill="freeze"/></rect></clipPath>
+<clipPath id="lc6"><rect x="500" y="202.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.41s" fill="freeze"/></rect></clipPath>
+<clipPath id="lc7"><rect x="500" y="230.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.52s" fill="freeze"/></rect></clipPath>
+<clipPath id="lc8"><rect x="500" y="258.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.63s" fill="freeze"/></rect></clipPath>
+<clipPath id="lc9"><rect x="500" y="286.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.74s" fill="freeze"/></rect></clipPath>
+<clipPath id="lc10"><rect x="500" y="314.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.85s" fill="freeze"/></rect></clipPath>
+<clipPath id="lc11"><rect x="500" y="342.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.96s" fill="freeze"/></rect></clipPath>
+<clipPath id="lc12"><rect x="500" y="370.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.07s" fill="freeze"/></rect></clipPath>
+<clipPath id="lc13"><rect x="500" y="398.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.18s" fill="freeze"/></rect></clipPath>
+<clipPath id="lc14"><rect x="500" y="426.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.29s" fill="freeze"/></rect></clipPath>
+<clipPath id="lc15"><rect x="500" y="454.00" width="0" height="28"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.40s" fill="freeze"/></rect></clipPath>
 
 </defs>
 
@@ -77,10 +77,10 @@
 
 <!-- Main panels -->
 <g transform="translate(0,38)">
-  <rect x="14" y="26" width="488" height="468" rx="14" fill="#0B1120" fill-opacity="0.35" stroke="#7C3AED" stroke-width="1" opacity="0.35"/>
-  <rect x="508" y="10" width="655" height="500" rx="14" fill="#0B1120" fill-opacity="0.35" stroke="#7C3AED" stroke-width="1" opacity="0.35"/>
-  <text x="30" y="24" class="panel-title">IDENTITY.SCAN</text>
-  <text x="524" y="24" class="panel-title">SYSTEM.INFO</text>
+  <rect x="14" y="18" width="480" height="488" rx="14" fill="#0B1120" fill-opacity="0.35" stroke="#7C3AED" stroke-width="1" opacity="0.35"/>
+  <rect x="508" y="18" width="658" height="488" rx="14" fill="#0B1120" fill-opacity="0.35" stroke="#7C3AED" stroke-width="1" opacity="0.35"/>
+  <text x="254" y="32" text-anchor="middle" class="panel-title">IDENTITY.SCAN</text>
+  <text x="837" y="32" text-anchor="middle" class="panel-title">SYSTEM.INFO</text>
 
   <g mask="url(#revealMask)">
 
@@ -131,24 +131,24 @@
 
   </g>
 
-  <g clip-path="url(#lc0)"><text x="520" y="0"><tspan x="520" y="42" class="head">yasir@devOS</tspan><tspan class="cc"> -——————————————————————————————————————————-—-</tspan></text></g>
-<g clip-path="url(#lc1)"><text x="520" y="0"><tspan x="520" y="70" class="cc">. </tspan><tspan class="key">I am</tspan><tspan class="cc">:</tspan><tspan x="670" class="value">Muhammad Yasir Ishfaq</tspan></text></g>
-<g clip-path="url(#lc2)"><text x="520" y="0"><tspan x="520" y="98" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc">:</tspan><tspan x="670" class="value">Software Engineering Undergraduate (6th Semester)</tspan></text></g>
-<g clip-path="url(#lc3)"><text x="520" y="0"><tspan x="520" y="126" class="cc">. </tspan><tspan class="key">Origin</tspan><tspan class="cc">:</tspan><tspan x="670" class="value">Karachi, Sindh, Pakistan</tspan></text></g>
-<g clip-path="url(#lc4)"><text x="520" y="0"><tspan x="520" y="154" class="cc">. </tspan><tspan class="key">Education</tspan><tspan class="cc">:</tspan><tspan x="670" class="value">BS Software Engineering, SMIU</tspan></text></g>
-<g clip-path="url(#lc5)"><text x="520" y="0"><tspan x="520" y="182" class="cc">. </tspan><tspan class="key">CGPA</tspan><tspan class="cc">:</tspan><tspan x="670" class="value">3.56 / 4.00</tspan></text></g>
-<g clip-path="url(#lc6)"><text x="520" y="0"><tspan x="520" y="210" class="cc">. </tspan><tspan class="key">Focus</tspan><tspan class="cc">:</tspan><tspan x="670" class="value">Machine Learning · NLP · Classification Systems</tspan></text></g>
-<g clip-path="url(#lc7)"><text x="520" y="0"><tspan x="520" y="238" class="cc">. </tspan></text></g>
-<g clip-path="url(#lc8)"><text x="520" y="0"><tspan x="520" y="266" class="accent">- Tech Stack</tspan><tspan class="cc"> -————————————————————————————————————————————-—-</tspan></text></g>
-<g clip-path="url(#lc9)"><text x="520" y="0"><tspan x="520" y="294" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">:</tspan><tspan x="670" class="value">Python, Java, JavaScript</tspan></text></g>
-<g clip-path="url(#lc10)"><text x="520" y="0"><tspan x="520" y="322" class="cc">. </tspan><tspan class="key">ML.Tools</tspan><tspan class="cc">:</tspan><tspan x="670" class="value">Scikit-learn, Jupyter, Pandas</tspan></text></g>
-<g clip-path="url(#lc11)"><text x="520" y="0"><tspan x="520" y="350" class="cc">. </tspan><tspan class="key">Dev.Tools</tspan><tspan class="cc">:</tspan><tspan x="670" class="value">Git, GitHub, VS Code</tspan></text></g>
-<g clip-path="url(#lc12)"><text x="520" y="0"><tspan x="520" y="378" class="cc">. </tspan></text></g>
-<g clip-path="url(#lc13)"><text x="520" y="0"><tspan x="520" y="406" class="accent">- Contact</tspan><tspan class="cc"> -————————————————————————————————————————————-—-</tspan></text></g>
-<g clip-path="url(#lc14)"><text x="520" y="0"><tspan x="520" y="434" class="cc">. </tspan><tspan class="key">Grid.Mail</tspan><tspan class="cc">:</tspan><tspan x="670" class="value">yasirkhanzada972@gmail.com</tspan></text></g>
-<g clip-path="url(#lc15)"><text x="520" y="0"><tspan x="520" y="462" class="cc">. </tspan><tspan class="key">Grid.Hub</tspan><tspan class="cc">:</tspan><tspan x="670" class="value">github.com/yasirx9</tspan></text></g>
+  <g clip-path="url(#lc0)"><text x="520" y="0"><tspan x="520" y="50.00" class="head">yasir@devOS</tspan><tspan class="cc"> -——————————————————————————————————————————-—-</tspan></text></g>
+<g clip-path="url(#lc1)"><text x="520" y="0"><tspan x="520" y="78.00" class="cc">. </tspan><tspan class="key">I am</tspan><tspan class="cc">:</tspan><tspan x="670" class="value">Muhammad Yasir Ishfaq</tspan></text></g>
+<g clip-path="url(#lc2)"><text x="520" y="0"><tspan x="520" y="106.00" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc">:</tspan><tspan x="670" class="value">Software Engineering Undergraduate (6th Semester)</tspan></text></g>
+<g clip-path="url(#lc3)"><text x="520" y="0"><tspan x="520" y="134.00" class="cc">. </tspan><tspan class="key">Origin</tspan><tspan class="cc">:</tspan><tspan x="670" class="value">Karachi, Sindh, Pakistan</tspan></text></g>
+<g clip-path="url(#lc4)"><text x="520" y="0"><tspan x="520" y="162.00" class="cc">. </tspan><tspan class="key">Education</tspan><tspan class="cc">:</tspan><tspan x="670" class="value">BS Software Engineering, SMIU</tspan></text></g>
+<g clip-path="url(#lc5)"><text x="520" y="0"><tspan x="520" y="190.00" class="cc">. </tspan><tspan class="key">CGPA</tspan><tspan class="cc">:</tspan><tspan x="670" class="value">3.56 / 4.00</tspan></text></g>
+<g clip-path="url(#lc6)"><text x="520" y="0"><tspan x="520" y="218.00" class="cc">. </tspan><tspan class="key">Focus</tspan><tspan class="cc">:</tspan><tspan x="670" class="value">Machine Learning · NLP · Classification Systems</tspan></text></g>
+<g clip-path="url(#lc7)"><text x="520" y="0"><tspan x="520" y="246.00" class="cc">. </tspan></text></g>
+<g clip-path="url(#lc8)"><text x="520" y="0"><tspan x="520" y="274.00" class="accent">- Tech Stack</tspan><tspan class="cc"> -————————————————————————————————————————————-—-</tspan></text></g>
+<g clip-path="url(#lc9)"><text x="520" y="0"><tspan x="520" y="302.00" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">:</tspan><tspan x="670" class="value">Python, Java, JavaScript</tspan></text></g>
+<g clip-path="url(#lc10)"><text x="520" y="0"><tspan x="520" y="330.00" class="cc">. </tspan><tspan class="key">ML.Tools</tspan><tspan class="cc">:</tspan><tspan x="670" class="value">Scikit-learn, Jupyter, Pandas</tspan></text></g>
+<g clip-path="url(#lc11)"><text x="520" y="0"><tspan x="520" y="358.00" class="cc">. </tspan><tspan class="key">Dev.Tools</tspan><tspan class="cc">:</tspan><tspan x="670" class="value">Git, GitHub, VS Code</tspan></text></g>
+<g clip-path="url(#lc12)"><text x="520" y="0"><tspan x="520" y="386.00" class="cc">. </tspan></text></g>
+<g clip-path="url(#lc13)"><text x="520" y="0"><tspan x="520" y="414.00" class="accent">- Contact</tspan><tspan class="cc"> -————————————————————————————————————————————-—-</tspan></text></g>
+<g clip-path="url(#lc14)"><text x="520" y="0"><tspan x="520" y="442.00" class="cc">. </tspan><tspan class="key">Grid.Mail</tspan><tspan class="cc">:</tspan><tspan x="670" class="value">yasirkhanzada972@gmail.com</tspan></text></g>
+<g clip-path="url(#lc15)"><text x="520" y="0"><tspan x="520" y="470.00" class="cc">. </tspan><tspan class="key">Grid.Hub</tspan><tspan class="cc">:</tspan><tspan x="670" class="value">github.com/yasirx9</tspan></text></g>
 
-  <rect x="522" y="481" width="9" height="16" class="cursor-blink" opacity="0">
+  <rect x="522" y="489" width="9" height="16" class="cursor-blink" opacity="0">
     <animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.01;0.02;0.3;0.5;0.7;0.85;1" dur="1.4s" begin="2.81s" repeatCount="indefinite"/>
   </rect>
 
